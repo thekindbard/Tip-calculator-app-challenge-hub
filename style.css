@@ -41,8 +41,8 @@ body{
     width: 100%;
 }
 
-/* CAUCULATOR-CONTAINER */
-.cauculator-container{
+/* CAlCULATOR-CONTAINER */
+.calculator-container{
     background-color: var(--White);
     border-radius: 1rem;
     width: 40rem;
@@ -206,7 +206,7 @@ body{
         margin-top: 2rem;
     }
     /* CALCULATOR CONTAINER */
-    .cauculator-container{
+    .calculator-container{
         margin-top: -2rem;
         flex-direction: column;
         height: 100% ;
